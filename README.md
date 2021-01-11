@@ -2,7 +2,7 @@
 新增使用github自动运行，无需自己的服务器
 ## 使用方法
 
-### 1.Fork 本仓库
+### 1.Fork 本仓库....
 
 ### 2.添加secret
 进入仓库后点击 `Settings`，右侧栏点击 `Secrets`，点击 `New secret`。分别添加 `HAOMA`、`MM` 和 `APPID` 的值，对应为你的 `要签到的手机号码`、`手机号码的服务密码` 和 `联通app抓包的appd值`。
